@@ -1,0 +1,154 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+
+
+body{
+    background-color: black;
+}
+label{
+    color: blanchedalmond;
+    
+}
+.container h1{
+  color: bisque;
+}
+
+h1{
+    color: rgb(211, 196, 174);
+}
+p{
+    color: blanchedalmond;
+}
+.container{
+   width: 500px;
+   margin: 0,auto;
+  
+   
+}
+form{
+    padding-left: 300px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 90%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for all buttons */
+
+
+button:hover {
+  opacity:1;
+}
+
+/* Extra styles for the cancel button */
+
+
+/* Float cancel and signup buttons and add an equal width */
+
+
+/* Add padding to container elements */
+.container {
+  padding: 16px;
+}
+
+
+/* Clear floats */
+
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+  .cancelbtn, .signupbtn {
+     width: 50%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    color:black;
+    padding-left: 15px;
+    font-size: 30px;
+    display: inline-block;
+}
+.header1{
+  display: inline;
+  font-size: medium;
+  position: relative;
+}
+
+.header2{
+  color: black;
+  background-color:black; 
+  display: inline;
+  margin-top: 30px;
+  position: relative;
+} 
+.nav{
+  background-color: lightgrey;
+  position: fixed ;
+  top :0;
+  width :100%
+}
+a{
+    float: right;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 23px;
+    padding-right: 25px; 
+}
+.header2 a:hover {
+    background-color:green;
+    color:white;}
+
+
+
+    .middle{
+      text-align: center;
+      margin-top: 7%;
+    }
+
+
+    .button {
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;}
+
+      .button5 {border-radius: 80%;}
+      button:hover{
+        background-color:darkgreen;
+      }

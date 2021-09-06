@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+h1{
+    color: black;
+    padding-left: 20px;
+    font-size: 30px;
+    display: inline-block;
+}
+.header1{
+  display: inline;
+  font-size: medium;
+  position: relative;
+}
+
+.header2{
+  color: black;
+  background-color:black; 
+  display: inline;
+  margin-top: 30px;
+  position: relative;
+} 
+.nav{
+  background-color: lightgrey;
+  position: fixed ;
+  top :0;
+  width :100%
+}
+a{
+    float: right;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 23px;
+    padding-right: 25px; 
+}
+.header2 a:hover {
+    background-color:green;
+    color:white;}
+
+
+
+    h2{
+        color: blanchedalmond;
+        padding-top: 80px;
+        padding-left: 50px;
+       font-size: 50px;
+    }
+    .content{
+        color: blanchedalmond;
+        padding-left: 150px;
+        padding-right: 150px;
+        font-size: 30px;
+    }
+     
+
+    
